@@ -20,7 +20,7 @@
     
     border: 2px solid ;
     border-color: #6495ED;
-    border-radius: 20px;
+    border-radius: 5px;
     background-color: #6495ED;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
@@ -29,9 +29,68 @@
 #frase2{
     border: 2px solid;
     border-color: whitesmoke;
-    border-radius: 20px;
+    border-radius: 5px;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     color: grey;
     padding: 3px;
+}
+#titoli{
+    width: 55%;
+    border: 2xp solid;
+    margin: auto;
+}
+.cerchio{
+    height: 20px;
+    width: 20px;
+    border: 2px solid;
+    border-color: greenyellow;
+    border-radius: 20px;
+    color: greenyellow;
+    display: inline-block;
+    text-align: center;
+
+}
+.tag{
+    border: 2px solid ;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+.blue{
+    background-color:#6495ED; 
+    border-color: #6495ED;
+}
+.violet{
+    background-color: violet;
+    border-color: violet;
+}
+.green{ 
+    background-color: green;
+    border-color: green;
+
+}
+.croce{
+    height: 20px;
+    width: 20px;
+    border: 2px solid;
+    border-color: red;
+    border-radius: 20px;
+    color: red;
+    display: inline-block;
+    text-align: center;
+}
+.orange{
+    background-color: orange;
+    border-color: orange;
+    
+}
+.pink{
+    background-color: pink;
+    border-color: pink;
+}
+.lemon{
+    background-color: #9ACD32;
+    border-color: #9ACD32;
 }
