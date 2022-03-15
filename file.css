@@ -1,0 +1,28 @@
+#Foto{
+    height: 80px;
+    vertical-align: middle;
+}
+#Primo{
+    height: 100px;
+    line-height: 100px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+#frase1{
+    
+    border: 2px solid ;
+    border-color: #6495ED;
+    border-radius: 20px;
+    background-color: #6495ED;
+    font-style: oblique;
+
+}
+#frase2{
+    border: 2px solid;
+    border-color: whitesmoke;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    font-style:  oblique;
+}
