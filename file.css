@@ -10,19 +10,28 @@
     background-color: whitesmoke;
 }
 
+#prima-parte{
+    width: 55%;
+    margin: auto;
+    margin-top: 4%;
+    
+}
 #frase1{
     
     border: 2px solid ;
     border-color: #6495ED;
     border-radius: 20px;
     background-color: #6495ED;
-    font-style: oblique;
-
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 3px; 
 }
 #frase2{
     border: 2px solid;
     border-color: whitesmoke;
     border-radius: 20px;
-    background-color: whitesmoke;
-    font-style:  oblique;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    padding: 3px;
 }
